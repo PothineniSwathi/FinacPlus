@@ -1,0 +1,46 @@
+Basic Information:
+Item ID- int
+primary of a table, Unit of Measure, Serial Number,
+
+Product Name-varchar(30)
+name of the product
+
+Brand-varchar(20)
+name of brand
+
+Category-varchar(30)
+
+SKU (Stock Keeping Unit)varchar(50)-
+Barcode, Supplier Information, Inventory Level, Reorder Point, Lead Time, Tax Information, Associated SKUs
+
+Price-int
+
+
+Detailed Attributes:
+Size
+Color
+Material
+Pattern
+
+Performance and Marketing Data:
+Customer Reviews
+Sales Rank
+Images
+Videos
+
+Once the metadata is stored then the information can be used for
+
+Lookup and Sorting
+
+Search Optimization: Metadata enhances search algorithms by precisely matching relevant products to search queries.
+Options for Filtering: Customers can use attributes like material, size, and color to narrow down search results and locate goods that fit their needs.
+
+
+Suggestions and Customization
+
+Product Suggestions: Amazon can suggest related or complimentary products based on information gathered from user reviews, ratings, and past purchases.
+Personalized marketing: Customers can receive emails and adverts that are specifically tailored to them depending on their surfing history and interests.
+Inventory Control
+Stock tracking: SKU and inventory data support real-time stock level tracking, helping businesses avoid overstock or stockout scenarios.
+Replenishment planning involves determining when to replenish goods by analyzing sales data and trends.
+Information and Perceptions
